@@ -8,7 +8,6 @@ dato = {
 }
 
 conexion = mysql.connector.connect(** dato)
-
 cursor = conexion.cursor()
 valores = "INSERT INTO usuarios(Id) VALUES ('123456')"
 try:
