@@ -34,12 +34,6 @@ def Seleccion(var):
 	else:
 		print "Listar un numero de la lista"
 
-#def conexion():
-	
-#def cerrar_conexion(conn):
-	#import mysql.connector
-#	conn.close()
-			
 def Agregar():
 	print "**********************"
 	print "** MENU AGREGAR ******"
