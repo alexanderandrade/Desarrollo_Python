@@ -1,8 +1,10 @@
+#! usr/bin/python2.7
+
 import mysql.connector
 
 dato = {
 	'user' : 'root',
-	'password' : '',
+	'password' : '#Mysql@Jess2017',
 	'database' : 'tutorial',
 	'host' : '127.0.0.1'
 }

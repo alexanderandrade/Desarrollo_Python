@@ -1,7 +1,6 @@
 import mysql.connector
 import os,sys
 def Menu():
-	print ""
 	print "################################################"
 	print "################ Menu Principal ################"
 	print "################################################"
